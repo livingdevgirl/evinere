@@ -1,0 +1,22 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  font-family: 'Yeseva One', cursive;
+}
+h1{
+  border-bottom: 1px dashed pink;
+  size: 4rem;
+}
+a{
+  color: #FF8790;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #F65d60;
+}
+
+a:active{
+  color: pink;
+}
